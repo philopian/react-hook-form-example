@@ -4,6 +4,7 @@
 }
 
 .App label {
+  margin-top: 10px;
   width: 100%;
   display: block;
 }
@@ -11,7 +12,17 @@
 .App input,
 .App select,
 .App textarea {
-  margin: 0px auto 10px auto;
+  margin: 0px auto;
   width: 200px;
   display: block;
+}
+
+.App p {
+  color: red;
+  font-style: italic;
+  margin-top: 4px;
+}
+
+.App .submit {
+  margin-top: 20px;
 }
