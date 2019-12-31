@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.App label {
+  width: 100%;
+  display: block;
+}
+
+.App input,
+.App select,
+.App textarea {
+  margin: 0px auto 10px auto;
+  width: 200px;
+  display: block;
+}
